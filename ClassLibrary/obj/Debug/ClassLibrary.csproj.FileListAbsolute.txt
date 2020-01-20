@@ -1,0 +1,6 @@
+C:\Users\brady\Documents\University\CMP307\Coursework\cmp307-coursework-1700485\MessengingAppGUI\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\brady\Documents\University\CMP307\Coursework\cmp307-coursework-1700485\MessengingAppGUI\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\brady\Documents\University\CMP307\Coursework\cmp307-coursework-1700485\MessengingAppGUI\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\brady\Documents\University\CMP307\Coursework\cmp307-coursework-1700485\MessengingAppGUI\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\brady\Documents\University\CMP307\Coursework\cmp307-coursework-1700485\MessengingAppGUI\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\brady\Documents\University\CMP307\Coursework\cmp307-coursework-1700485\MessengingAppGUI\ClassLibrary\obj\Debug\ClassLibrary.pdb
